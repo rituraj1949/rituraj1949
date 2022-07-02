@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rituraj1949
+- 👋 Hi, I’m Ritu Raj
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on 9060736005
 
